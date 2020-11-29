@@ -1,0 +1,17 @@
+2020-11-29 08:33:32,235 Evaluation process is started.
+python "C:\Users\yunus\neural_network_console\libs\Python\Lib\site-packages\nnabla\utils\cli\cli.py" forward
+	-c "C:\Users\yunus\neural_network_console\samples\sample_project\tutorial\basics\01_logistic_regression.files\20201129_083217\results.nnp"
+	-d "C:\Users\yunus\neural_network_console\samples\sample_dataset\mnist\small_mnist_4or9_test.csv"
+	-o "C:\Users\yunus\neural_network_console\samples\sample_project\tutorial\basics\01_logistic_regression.files\20201129_083217"
+	--replace_path
+2020-11-29 08:33:35,907 [nnabla]: Using context "Context(backend=['cpu:float'], array_class='CpuCachedArray', device_id='')"
+2020-11-29 08:33:36,047 [nnabla]: data 64 / 500
+2020-11-29 08:33:36,094 [nnabla]: data 128 / 500
+2020-11-29 08:33:36,141 [nnabla]: data 192 / 500
+2020-11-29 08:33:36,204 [nnabla]: data 256 / 500
+2020-11-29 08:33:36,251 [nnabla]: data 320 / 500
+2020-11-29 08:33:36,297 [nnabla]: data 384 / 500
+2020-11-29 08:33:36,360 [nnabla]: data 448 / 500
+2020-11-29 08:33:36,407 [nnabla]: data 500 / 500
+2020-11-29 08:33:36,407 [nnabla]: Forward Completed.
+NNabla command line interface (Version:1.11.0.console_day10r1, Build:200925045104)
