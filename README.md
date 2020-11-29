@@ -9,7 +9,7 @@
 	- Export model to (.pb) Tensorflow Frozen Graph
 	
 - Convert (.pb) Tensorflow Frozen Graph to Optimized Model for Inference 
-	- Check input & output layer on the graf (view on tensorboard)
+	- Check input & output layer on the graph (view on tensorboard)
 	- run `transform tf frozen graph.ipynb` to transform
 	
 - Inference using OpenCV DNN on Jupyter Lab
